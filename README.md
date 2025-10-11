@@ -1,0 +1,1 @@
+Dimensioning a village battery
