@@ -1,4 +1,4 @@
 circadian
-matplotlib
 geopy
 pvlib
+plotly
